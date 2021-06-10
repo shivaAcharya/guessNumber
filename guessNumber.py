@@ -3,6 +3,8 @@
 
 import time
 print('Guess a number between 1 to 100!')
+
+# Wait two seconds to let user think.
 time.sleep(2)
 low = 0
 high = 100
